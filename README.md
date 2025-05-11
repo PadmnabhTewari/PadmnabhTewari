@@ -68,7 +68,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-padmnabhtewari%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmnabhtewari@gmail.com)
 
 ---
+## 👨‍💻 Competitive Programming Profiles
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/padmnabhtewari/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Padmnabhuno)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/padmnabhtewari)
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=padmnabhtewari&label=Profile+Views&color=blue" alt="Profile Views" />
 </p>
