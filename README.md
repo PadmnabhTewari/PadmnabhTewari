@@ -64,7 +64,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PadmnabhTewari-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/PadmnabhTewari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PadmnabhTewari-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/padmnabh-tewari-ab50a82b7/)
 [![Gmail](https://img.shields.io/badge/Gmail-padmnabhtewari%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmnabhtewari@gmail.com)
 
 ---
