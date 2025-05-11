@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Padmnabh Tewari</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | CSE @ IIIT Vadodara | Dreamer & Doer</h3>
+<h3 align="center">Aspiring Computer Science Engineer | BTech @ IIIT Vadodara | Dreamer & Doer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&multiline=true&width=600&lines=Machine+Learning+Enthusiast;MERN+Stack+Developer+%7C+Next.js+%7C+Flutter+Dev;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
