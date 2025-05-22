@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&multiline=true&width=600&lines=Machine+Learning+Enthusiast;MERN+Stack+Developer+%7C+Next.js+%7C+Flutter+Dev;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ## 🚀 About Me
