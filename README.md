@@ -78,5 +78,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=padmnabhtewari&label=Profile+Views&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=padmnabhtewari&label=Profile+Views&color=blue" alt="Profile Views"/>
 </p>
