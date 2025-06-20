@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science** at **IIIT Vadodara**
+- 🎓 Pursuing **B.Tech in Computer Science** at **IIIT Vadodara.**
 - 🧠 Focused on **Machine Learning**, **Full Stack Web Dev**, and **System Programming**
 - 💻 Currently learning **DEVOPS**, **UNIX internals**, and **Flutter app development**
 - 🛠 Building robust systems and scalable apps with **MERN** and **Next.js**
