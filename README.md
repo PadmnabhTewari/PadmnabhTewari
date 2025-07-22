@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Padmnabh Tewari</h1>
+<h1 align="center">Hi 👋,I'm Padmnabh Tewari</h1>
 <h3 align="center">Aspiring Computer Science Engineer | BTech @ IIIT Vadodara | Dreamer & Doer</h3>
 
 <p align="center">
